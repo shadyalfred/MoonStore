@@ -6,4 +6,5 @@ tmp/
 obj/
 bin/
 .cache/
+app.db
 ScaffoldingReadMe.txt
