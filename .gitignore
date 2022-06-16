@@ -1,7 +1,9 @@
-.DS_Store
-.idea
-.vscode
+.DS_Store/
+.idea/
+.vscode/
 *.log
 tmp/
 obj/
 bin/
+.cache/
+ScaffoldingReadMe.txt
